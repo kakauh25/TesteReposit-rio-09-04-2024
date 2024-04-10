@@ -1,0 +1,44 @@
+.solida
+{
+    border-style: solid groove double dotted ;
+    border-width: 25px 10px 4px 50px;
+    border-color: blue rgb(121, 69, 7) black rgb(175, 53, 74);
+    
+}
+.dotted
+{
+    border-style: dotted;
+}
+.dashed
+{
+    border-style: dashed;
+}
+ .double
+ {
+    border-style: double;
+ }
+ .groove
+ {
+    border-style: groove;
+
+ }
+ .ridge
+ {
+    border-style: ridge;
+ }
+ .inset
+ {
+    border-style: inset;
+ }
+ .outset
+ {
+    border-style: outset;
+ }
+ .none
+ {
+    border-style: none;
+ }
+ .hidden
+ {
+    border-style: hidden;
+ }
